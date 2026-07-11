@@ -1,16 +1,97 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rodriqe/Rodriqe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rodrigo Quintanilla 👋
 
-Here are some ideas to get you started:
+### ☁️ Azure Solutions Architect Expert · Microsoft Fabric · FinOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F81CE5&center=true&vCenter=true&width=650&lines=Azure+Solutions+Architect+Expert;Microsoft+Fabric+%26+Modern+Data+Platform;FinOps+%26+Cost+Optimization;iOS+%2F+macOS+Developer" alt="Typing SVG" />
+
+📍 Santiago, Chile · Remote
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rigoqe)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rigo.qe@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rodriqe)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- ☁️ Azure Solutions Architect Expert with **6 Microsoft certifications**
+- 📊 Specialist in **Microsoft Fabric** and enterprise-scale data platforms
+- 💰 **FinOps** strategies with up to **50% cost reduction**
+- 💻 iOS / macOS developer (SwiftUI · SwiftData)
+- 🔐 Regulated environments: banking, government, industry & retail
+
+## 🎯 Focus Areas
+
+`Cloud Architecture (CAF / WAF)` · `Microsoft Fabric & Modern Data Platform` · `FinOps & Cost Optimization` · `Infrastructure as Code (Terraform / Bicep)` · `Security, Governance & Purview` · `iOS / macOS App Development`
+
+## 🛠️ Languages & Tools
+
+### Cloud & Data
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Synapse](https://img.shields.io/badge/Azure_Synapse-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Data Factory](https://img.shields.io/badge/Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Purview](https://img.shields.io/badge/Microsoft_Purview-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### IaC & DevOps
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Development
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🏆 Certifications
+
+| Certification | Code | Level |
+|---|---|---|
+| Azure Solutions Architect Expert | AZ-305 | Expert |
+| Fabric Analytics Engineer Associate | DP-600 | Associate |
+| Azure Administrator Associate | AZ-104 | Associate |
+| Azure Data Fundamentals | DP-900 | Fundamentals |
+| Azure AI Fundamentals | AI-900 | Fundamentals |
+| Azure Fundamentals | AZ-900 | Fundamentals |
+| Scrum Master Professional | SMPC | Professional |
+
+## 📱 Featured Projects
+
+- **[Safeplace](https://apps.apple.com/us/app/safeplace-vault/id6761115917)** — iOS security app with on-device encryption (SwiftUI)
+- **[FlowImage](https://apps.apple.com/us/app/flowimagemac/id6761324168?mt=12)** — Cross-platform image converter for macOS / iOS / iPadOS
+- **[Time2Split](https://apps.apple.com/us/app/time2split/id6761983454)** — Expense splitting app with OCR receipt scanning (Apple Vision)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodriqe&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rodriqe&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriqe&layout=compact&theme=radical&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rodriqe&theme=redical&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rodriqe&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Rodriqe/Rodriqe/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+<div align="center">
+
+> *Building cloud-native solutions that scale. Always learning. Always architecting.*
+
+</div>
