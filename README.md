@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F81CE5&center=true&vCenter=true&width=650&lines=Azure+Solutions+Architect+Expert;Microsoft+Fabric+%26+Modern+Data+Platform;FinOps+%26+Cost+Optimization;iOS+%2F+macOS+Developer" alt="Typing SVG" />
 
-📍 Santiago, Chile · Remote
+🌍 Working remotely from anywhere in the world
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-F81CE5?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://rodriqe.github.io/Rodriqe/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rigoqe)
