@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-- ☁️ Azure Solutions Architect Expert with **6 Microsoft certifications**
+- ☁️ Azure Solutions Architect Expert with **9 certifications** (7 Microsoft · 2 Scrum)
 - 📊 Specialist in **Microsoft Fabric** and enterprise-scale data platforms
 - 💰 **FinOps** strategies with up to **50% cost reduction**
 - 💻 iOS / macOS developer (SwiftUI · SwiftData)
