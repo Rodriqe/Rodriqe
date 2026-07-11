@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rodrigo Quintanilla 👋
-
-### ☁️ Azure Solutions Architect Expert · Microsoft Fabric · FinOps
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rodrigo%20Quintanilla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Azure%20Solutions%20Architect%20Expert%20%C2%B7%20Microsoft%20Fabric%20%C2%B7%20FinOps&descSize=16&descAlignY=58" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F81CE5&center=true&vCenter=true&width=650&lines=Azure+Solutions+Architect+Expert;Microsoft+Fabric+%26+Modern+Data+Platform;FinOps+%26+Cost+Optimization;iOS+%2F+macOS+Developer" alt="Typing SVG" />
 
@@ -11,9 +9,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rigoqe)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rodriqe)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Rodriqe&label=Profile%20views&color=F81CE5&style=for-the-badge)
+
 </div>
 
----
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🧑‍💻 About Me
 
@@ -43,13 +43,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Development
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ## 🏆 Certifications
 
 | Certification | Code | Level |
@@ -68,10 +61,12 @@
 - **[FlowImage](https://apps.apple.com/us/app/flowimagemac/id6761324168?mt=12)** — Cross-platform image converter for macOS / iOS / iPadOS
 - **[Time2Split](https://apps.apple.com/us/app/time2split/id6761983454)** — Expense splitting app with OCR receipt scanning (Apple Vision)
 
----
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
 
 > *Building cloud-native solutions that scale. Always learning. Always architecting.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
 
 </div>
