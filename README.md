@@ -9,7 +9,6 @@
 📍 Santiago, Chile · Remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rigoqe)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rigo.qe@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rodriqe)
 
 </div>
@@ -68,25 +67,6 @@
 - **[Safeplace](https://apps.apple.com/us/app/safeplace-vault/id6761115917)** — iOS security app with on-device encryption (SwiftUI)
 - **[FlowImage](https://apps.apple.com/us/app/flowimagemac/id6761324168?mt=12)** — Cross-platform image converter for macOS / iOS / iPadOS
 - **[Time2Split](https://apps.apple.com/us/app/time2split/id6761983454)** — Expense splitting app with OCR receipt scanning (Apple Vision)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodriqe&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Rodriqe&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriqe&layout=compact&theme=radical&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rodriqe&theme=redical&hide_border=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rodriqe&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Rodriqe/Rodriqe/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
