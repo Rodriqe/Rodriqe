@@ -46,15 +46,52 @@
 
 ## 🏆 Certifications
 
-| Certification | Code | Level |
-|---|---|---|
-| Azure Solutions Architect Expert | AZ-305 | Expert |
-| Fabric Analytics Engineer Associate | DP-600 | Associate |
-| Azure Administrator Associate | AZ-104 | Associate |
-| Azure Data Fundamentals | DP-900 | Fundamentals |
-| Azure AI Fundamentals | AI-900 | Fundamentals |
-| Azure Fundamentals | AZ-900 | Fundamentals |
-| Scrum Master Professional | SMPC | Professional |
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/microsoft-expert.svg" width="70" alt="Expert" /><br/>
+<sub><b>Solutions Architect Expert</b></sub><br/>
+<sub><code>AZ-305</code></sub>
+</td>
+<td align="center" width="150">
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/microsoft-associate.svg" width="70" alt="Associate" /><br/>
+<sub><b>Fabric Analytics Engineer</b></sub><br/>
+<sub><code>DP-600</code></sub>
+</td>
+<td align="center" width="150">
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/microsoft-associate.svg" width="70" alt="Associate" /><br/>
+<sub><b>Azure Administrator</b></sub><br/>
+<sub><code>AZ-104</code></sub>
+</td>
+<td align="center" width="150">
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/microsoft-fundamentals.svg" width="70" alt="Fundamentals" /><br/>
+<sub><b>Azure Data Fundamentals</b></sub><br/>
+<sub><code>DP-900</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="150">
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/microsoft-fundamentals.svg" width="70" alt="Fundamentals" /><br/>
+<sub><b>Azure AI Fundamentals</b></sub><br/>
+<sub><code>AI-900</code></sub>
+</td>
+<td align="center" width="150">
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/microsoft-fundamentals.svg" width="70" alt="Fundamentals" /><br/>
+<sub><b>Azure Fundamentals</b></sub><br/>
+<sub><code>AZ-900</code></sub>
+</td>
+<td align="center" width="150">
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/certiprof-smpc.png" width="70" alt="CertiProf" /><br/>
+<sub><b>Scrum Master Professional</b></sub><br/>
+<sub><code>SMPC</code></sub>
+</td>
+<td align="center" width="150"></td>
+</tr>
+</table>
+
+</div>
 
 ## 📱 Featured Projects
 
