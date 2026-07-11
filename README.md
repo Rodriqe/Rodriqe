@@ -51,43 +51,54 @@
 <table>
 <tr>
 <td align="center" width="150">
-<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/microsoft-expert.svg" width="70" alt="Expert" /><br/>
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/az-305.png" width="80" alt="AZ-305" /><br/>
 <sub><b>Solutions Architect Expert</b></sub><br/>
 <sub><code>AZ-305</code></sub>
 </td>
 <td align="center" width="150">
-<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/microsoft-associate.svg" width="70" alt="Associate" /><br/>
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/microsoft-associate.svg" width="80" alt="DP-600" /><br/>
 <sub><b>Fabric Analytics Engineer</b></sub><br/>
 <sub><code>DP-600</code></sub>
 </td>
 <td align="center" width="150">
-<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/microsoft-associate.svg" width="70" alt="Associate" /><br/>
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/az-104.png" width="80" alt="AZ-104" /><br/>
 <sub><b>Azure Administrator</b></sub><br/>
 <sub><code>AZ-104</code></sub>
-</td>
-<td align="center" width="150">
-<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/microsoft-fundamentals.svg" width="70" alt="Fundamentals" /><br/>
-<sub><b>Azure Data Fundamentals</b></sub><br/>
-<sub><code>DP-900</code></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="150">
-<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/microsoft-fundamentals.svg" width="70" alt="Fundamentals" /><br/>
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/dp-900.png" width="80" alt="DP-900" /><br/>
+<sub><b>Azure Data Fundamentals</b></sub><br/>
+<sub><code>DP-900</code></sub>
+</td>
+<td align="center" width="150">
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/ai-900.png" width="80" alt="AI-900" /><br/>
 <sub><b>Azure AI Fundamentals</b></sub><br/>
 <sub><code>AI-900</code></sub>
 </td>
 <td align="center" width="150">
-<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/microsoft-fundamentals.svg" width="70" alt="Fundamentals" /><br/>
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/az-900.png" width="80" alt="AZ-900" /><br/>
 <sub><b>Azure Fundamentals</b></sub><br/>
 <sub><code>AZ-900</code></sub>
 </td>
+</tr>
+<tr>
 <td align="center" width="150">
-<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/certiprof-smpc.png" width="70" alt="CertiProf" /><br/>
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/sc-900.png" width="80" alt="SC-900" /><br/>
+<sub><b>Security, Compliance & Identity</b></sub><br/>
+<sub><code>SC-900</code></sub>
+</td>
+<td align="center" width="150">
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/smpc.png" width="80" alt="SMPC" /><br/>
 <sub><b>Scrum Master Professional</b></sub><br/>
 <sub><code>SMPC</code></sub>
 </td>
-<td align="center" width="150"></td>
+<td align="center" width="150">
+<img src="https://rodriqe.github.io/Rodriqe/assets/img/certs/spopc.png" width="80" alt="SPOPC" /><br/>
+<sub><b>Scrum Product Owner</b></sub><br/>
+<sub><code>SPOPC</code></sub>
+</td>
 </tr>
 </table>
 
